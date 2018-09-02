@@ -1,4 +1,4 @@
-# facebook-page-desgin
+# facebook-page-design
 
 Please download "fb home page design".
 
